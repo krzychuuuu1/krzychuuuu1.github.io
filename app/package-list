@@ -1,0 +1,75 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista////PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/index.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment.Companion///PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/-companion/index.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment.Companion/ARG_COLUMN_COUNT/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/-companion/-a-r-g_-c-o-l-u-m-n_-c-o-u-n-t.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment///PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/index.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment/ItemFragment/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/-item-fragment.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/on-create.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/ItemFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-item-fragment/on-create-view.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt///PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/index.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/email/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/email.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/imie/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/imie.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/kontakt/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/kontakt.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/miasto/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/miasto.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/nazwisko/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/nazwisko.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/praca/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/praca.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/telefon/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/telefon.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent.kontakt/ulica/#/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/kontakt/ulica.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent///PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/index.html
+$dokka.location:com.example.kontaktownia.ui.KontaktyLista/PlaceholderContent/wczytajkontakty/#kotlin.String/PointingToDeclaration/app/com.example.kontaktownia.ui.KontaktyLista/-placeholder-content/wczytajkontakty.html
+$dokka.location:com.example.kontaktownia.ui.dodajkontakt////PointingToDeclaration/app/com.example.kontaktownia.ui.dodajkontakt/index.html
+$dokka.location:com.example.kontaktownia.ui.dodajkontakt/DodajKontaktFragment///PointingToDeclaration/app/com.example.kontaktownia.ui.dodajkontakt/-dodaj-kontakt-fragment/index.html
+$dokka.location:com.example.kontaktownia.ui.dodajkontakt/DodajKontaktFragment/DodajKontaktFragment/#/PointingToDeclaration/app/com.example.kontaktownia.ui.dodajkontakt/-dodaj-kontakt-fragment/-dodaj-kontakt-fragment.html
+$dokka.location:com.example.kontaktownia.ui.dodajkontakt/DodajKontaktFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.dodajkontakt/-dodaj-kontakt-fragment/on-create-view.html
+$dokka.location:com.example.kontaktownia.ui.dodajkontakt/DodajKontaktFragment/onDestroyView/#/PointingToDeclaration/app/com.example.kontaktownia.ui.dodajkontakt/-dodaj-kontakt-fragment/on-destroy-view.html
+$dokka.location:com.example.kontaktownia.ui.edycja////PointingToDeclaration/app/com.example.kontaktownia.ui.edycja/index.html
+$dokka.location:com.example.kontaktownia.ui.edycja/Edycja///PointingToDeclaration/app/com.example.kontaktownia.ui.edycja/-edycja/index.html
+$dokka.location:com.example.kontaktownia.ui.edycja/Edycja/Edycja/#/PointingToDeclaration/app/com.example.kontaktownia.ui.edycja/-edycja/-edycja.html
+$dokka.location:com.example.kontaktownia.ui.edycja/Edycja/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.edycja/-edycja/on-create.html
+$dokka.location:com.example.kontaktownia.ui.edycja/Edycja/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.edycja/-edycja/on-create-view.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu////PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/index.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu/podgladKontaktu///PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/podglad-kontaktu/index.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu/podgladKontaktu/onActivityResult/#kotlin.Int#kotlin.Int#android.content.Intent?/PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/podglad-kontaktu/on-activity-result.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu/podgladKontaktu/onCreate/#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/podglad-kontaktu/on-create.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu/podgladKontaktu/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/podglad-kontaktu/on-create-view.html
+$dokka.location:com.example.kontaktownia.ui.podgladKontaktu/podgladKontaktu/podgladKontaktu/#/PointingToDeclaration/app/com.example.kontaktownia.ui.podgladKontaktu/podglad-kontaktu/podglad-kontaktu.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie////PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/index.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/HomeViewModel///PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-home-view-model/index.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/HomeViewModel/HomeViewModel/#/PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-home-view-model/-home-view-model.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/HomeViewModel/text/#/PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-home-view-model/text.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/WybieranieFragment///PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-wybieranie-fragment/index.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/WybieranieFragment/WybieranieFragment/#/PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-wybieranie-fragment/-wybieranie-fragment.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/WybieranieFragment/onCreateView/#android.view.LayoutInflater#android.view.ViewGroup?#android.os.Bundle?/PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-wybieranie-fragment/on-create-view.html
+$dokka.location:com.example.kontaktownia.ui.wybieranie/WybieranieFragment/onDestroyView/#/PointingToDeclaration/app/com.example.kontaktownia.ui.wybieranie/-wybieranie-fragment/on-destroy-view.html
+$dokka.location:com.example.kontaktownia.ui////PointingToDeclaration/app/com.example.kontaktownia.ui/index.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy.ViewHolder///PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-view-holder/index.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy.ViewHolder/ViewHolder/#[Error type: Unresolved type for FragmentItemBinding]/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-view-holder/-view-holder.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy.ViewHolder/contentView/#/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-view-holder/content-view.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy.ViewHolder/telefonView/#/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-view-holder/telefon-view.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy.ViewHolder/toString/#/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-view-holder/to-string.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy///PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/index.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy/AdapterWyswietlaniaListy/#kotlin.collections.List[com.example.kontaktownia.ui.KontaktyLista.PlaceholderContent.kontakt]#kotlin.Boolean#kotlin.String/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/-adapter-wyswietlania-listy.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy/getItemCount/#/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/get-item-count.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy/onBindViewHolder/#com.example.kontaktownia.ui.AdapterWyswietlaniaListy.ViewHolder#kotlin.Int/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/on-bind-view-holder.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy/onCreateViewHolder/#android.view.ViewGroup#kotlin.Int/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/on-create-view-holder.html
+$dokka.location:com.example.kontaktownia.ui/AdapterWyswietlaniaListy/wartosci/#/PointingToDeclaration/app/com.example.kontaktownia.ui/-adapter-wyswietlania-listy/wartosci.html
+$dokka.location:com.example.kontaktownia////PointingToDeclaration/app/com.example.kontaktownia/index.html
+$dokka.location:com.example.kontaktownia//cyfra/#kotlin.collections.List[android.widget.Button]#android.widget.TextView/PointingToDeclaration/app/com.example.kontaktownia/cyfra.html
+$dokka.location:com.example.kontaktownia//dodaj/#com.example.kontaktownia.ui.KontaktyLista.PlaceholderContent.kontakt#android.view.View/PointingToDeclaration/app/com.example.kontaktownia/dodaj.html
+$dokka.location:com.example.kontaktownia//dzwon/#android.widget.ImageButton#kotlin.String#android.view.View?/PointingToDeclaration/app/com.example.kontaktownia/dzwon.html
+$dokka.location:com.example.kontaktownia//edytuj/#com.example.kontaktownia.ui.KontaktyLista.PlaceholderContent.kontakt?#com.example.kontaktownia.ui.KontaktyLista.PlaceholderContent.kontakt#android.view.View/PointingToDeclaration/app/com.example.kontaktownia/edytuj.html
+$dokka.location:com.example.kontaktownia//sluchacz/#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.Button#android.widget.EditText#android.widget.EditText#android.widget.CheckBox/PointingToDeclaration/app/com.example.kontaktownia/sluchacz.html
+$dokka.location:com.example.kontaktownia//sprawdz/#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.String#kotlin.Boolean/PointingToDeclaration/app/com.example.kontaktownia/sprawdz.html
+$dokka.location:com.example.kontaktownia//szukanie/#android.widget.ImageButton#android.widget.EditText/PointingToDeclaration/app/com.example.kontaktownia/szukanie.html
+$dokka.location:com.example.kontaktownia//zbierzdane/#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.EditText#android.widget.CheckBox/PointingToDeclaration/app/com.example.kontaktownia/zbierzdane.html
+$dokka.location:com.example.kontaktownia/MainActivity///PointingToDeclaration/app/com.example.kontaktownia/-main-activity/index.html
+$dokka.location:com.example.kontaktownia/MainActivity/MainActivity/#/PointingToDeclaration/app/com.example.kontaktownia/-main-activity/-main-activity.html
+com.example.kontaktownia
+com.example.kontaktownia.ui
+com.example.kontaktownia.ui.KontaktyLista
+com.example.kontaktownia.ui.dodajkontakt
+com.example.kontaktownia.ui.edycja
+com.example.kontaktownia.ui.podgladKontaktu
+com.example.kontaktownia.ui.wybieranie
+
